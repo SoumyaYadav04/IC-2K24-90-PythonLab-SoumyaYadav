@@ -19,13 +19,13 @@ Sample Input:
 Enter the number: 3
 
 Sample Output:
-
+```text
 3 3 3 3 3
 3 2 2 2 3
 3 2 1 2 3
 3 2 2 2 3
 3 3 3 3 3
-
+```
 ---
 
 2. pattern_matching.py
@@ -71,7 +71,7 @@ Square Triangle (n = 5)
 ***   ***
 **     **
 *       *
-```text
+```
 
 Square Diamond (n = 5)
 ```text
