@@ -47,7 +47,7 @@ Solid Square (n = 4)
 ```text
 * * * *
 * * * *
- * * * *
+* * * *
 * * * *
 ```
 Solid Triangle (n = 4)
@@ -83,7 +83,7 @@ Square Diamond (n = 5)
 **     **
 ***   ***
 **** ****
-***** *****
+**********
 ```
 Hollow Diamond Box (n = 5)
 ```text
