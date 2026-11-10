@@ -1,8 +1,8 @@
 # Lab 8 - HackerRank Online Coding Assessment
 
 **Course:** Python Programming Lab  
-**Student Name:** Rajkumar Chhugani  
-**Roll / ID:** IC-2k24-75  
+**Student Name:** Soumya Yadav  
+**Roll / ID:** IC-2K24-90  
 **Semester:** 5th Semester  
 **Platform:** HackerRank  
 **Assessment Name:** Codemos Hackathon Test (Python)  
